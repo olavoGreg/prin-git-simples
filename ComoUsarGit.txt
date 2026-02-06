@@ -1,6 +1,11 @@
+configuração
+
 1. git clone <url do repositorio>
 2. git config user.email "email"
 3. git config user.email "username"
+==============================================================================
+comandos
+
 4. git status ==> ve os arquivos que foram atualizados
 5. git add . ==> vai modificiar todos os arquivos
 6. git commit -m "mensagem" ==> registro no historico do Projeto
